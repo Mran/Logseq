@@ -19,4 +19,5 @@
 ** DEADLINE: <2021-03-27 Sat>
 ** SCHEDULED: <2021-03-29 Mon .+1d>
 ** {{query 12}}
-** /
+** [[draws/2021-03-26-21-22-52.excalidraw]]
+**
